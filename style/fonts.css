@@ -1,0 +1,24 @@
+@font-face{
+    src: url(../fonts/Raleway-Black.ttf);
+    font-family: 'R900';
+}
+@font-face{
+    src: url(../fonts/Raleway-Bold.ttf);
+    font-family: 'R700';
+}
+@font-face{
+    src: url(../fonts/Raleway-Medium.ttf);
+    font-family: 'R400';
+}
+@font-face{
+    src: url(../fonts/Raleway-Light.ttf);
+    font-family: 'R300';
+}
+@font-face{
+    src: url(../fonts/Roboto-Medium.ttf);
+    font-family: 'r500';
+}
+@font-face{
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-family: 'r700';
+}
